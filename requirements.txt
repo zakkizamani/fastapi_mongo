@@ -1,0 +1,11 @@
+python-decouple==3.3
+email-validator==1.2.1
+fastapi==0.79.0
+pydantic[email]==1.9.2
+pyjwt==1.7.1
+pymongo==3.12.3
+python-decouple==3.3
+starlette==0.19.1
+uvicorn==0.17.6
+
+
